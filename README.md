@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Halting24&label=profile+views&color=7c4dff&style=flat-square" alt="views">
   <a href="https://kabirsuri.net"><img src="https://img.shields.io/badge/portfolio-kabirsuri.net-00e5a0?style=flat-square&logo=safari&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kabir-suri/"><img src="https://img.shields.io/badge/LinkedIn-kabir--suri-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kabirsuri99@gmail.com"><img src="https://img.shields.io/badge/email-reach%20out-d7263d?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
