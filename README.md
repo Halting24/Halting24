@@ -1,15 +1,16 @@
 <!-- Halting24 · GitHub profile README -->
 
 <a href="https://github.com/Halting24">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:7c4dff,100:00e5a0&height=200&section=header&text=Kabir%20Suri&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20AI%20Security%20%C2%B7%20Threat%20Detection&descAlignY=60&descSize=18" alt="banner">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:7c4dff,100:00e5a0&height=200&section=header&text=Kabir%20Suri&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=MBA%20in%20Cybersecurity%20%C2%B7%20NSF%20CyberCorps%20SFS%20Scholar&descAlignY=60&descSize=18" alt="banner">
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5A0&center=true&vCenter=true&width=720&lines=Red+team+%2B+blue+team+%2B+AI+security;DNS+exfil+%C2%B7+honeytokens+%C2%B7+prompt+injection;I+ship+security+tools%2C+not+screenshots" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5A0&center=true&vCenter=true&width=720&lines=MBA+in+Cybersecurity+%C2%B7+CyberCorps+SFS+Scholar;Red+team+%2B+blue+team+%2B+AI+security;DNS+exfil+%C2%B7+honeytokens+%C2%B7+prompt+injection;Open+to+cybersecurity+roles" alt="typing">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Halting24&label=profile+views&color=7c4dff&style=flat-square" alt="views">
+  <a href="https://www.linkedin.com/in/kabir-suri/"><img src="https://img.shields.io/badge/Open_to-Cybersecurity_roles-00e5a0?style=flat-square"></a>
   <a href="https://kabirsuri.net"><img src="https://img.shields.io/badge/portfolio-kabirsuri.net-00e5a0?style=flat-square&logo=safari&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kabir-suri/"><img src="https://img.shields.io/badge/LinkedIn-kabir--suri-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kabirsuri99@gmail.com"><img src="https://img.shields.io/badge/email-reach%20out-d7263d?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -19,12 +20,14 @@
 
 ```python
 class KabirSuri:
-    role  = "Cybersecurity Engineer"
-    focus = ["AI / LLM security", "threat detection", "deception", "macOS"]
-    style = "build the tool, then prove it works on real traffic"
+    education = "MBA in Cybersecurity"
+    scholar   = "NSF CyberCorps SFS"
+    certs     = ["Security+", "CySA+"]
+    focus     = ["AI / LLM security", "threat detection", "deception", "macOS"]
+    status    = "open to cybersecurity roles"
 ```
 
-I build offensive and defensive security tooling from scratch: the kind a real red/blue team ships, not tutorial clones. Everything below runs on a Mac mini, stays dependency light, and is tested on real data.
+I'm an MBA in Cybersecurity and an NSF CyberCorps Scholarship for Service recipient. I build offensive and defensive security tooling from scratch: the kind a real red or blue team ships, not tutorial clones. Everything below runs on a Mac mini, stays dependency light, and is tested on real data.
 
 ### Featured projects
 
@@ -62,6 +65,12 @@ I build offensive and defensive security tooling from scratch: the kind a real r
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,apple,docker,git,aws&theme=dark" alt="skills">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MBA-Cybersecurity-7c4dff?style=flat-square">
+  <img src="https://img.shields.io/badge/NSF_CyberCorps-SFS_Scholar-d7263d?style=flat-square">
+  <img src="https://img.shields.io/badge/Security%2B-CompTIA-00e5a0?style=flat-square">
+  <img src="https://img.shields.io/badge/CySA%2B-CompTIA-00e5a0?style=flat-square">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-d7263d?style=flat-square">
